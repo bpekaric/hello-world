@@ -8,7 +8,7 @@
 
 ABOUT
 
-This is a simple Hello, World kind of a program, the purpose of which is to learn using Git and GitHub. It is written in C++ using Orwell Dev-C++ 5.11.
+This is a simple Hello, World kind of a program, the purpose of which is to learn how to use GitHub. It is written in C++ using Orwell Dev-C++ 5.11.
 
 <br/>
 
