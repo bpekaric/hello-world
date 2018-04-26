@@ -6,13 +6,13 @@
 
 <br/>
 
-ABOUT
+**ABOUT**
 
 This is a simple Hello, World kind of a program, the purpose of which is to learn how to use GitHub. It is written in C++ using Orwell Dev-C++ 5.11.
 
 <br/>
 
-LEGAL
+**LEGAL**
 
 This program is licensed under GNU General Public License v3.0.
 
