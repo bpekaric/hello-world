@@ -16,4 +16,4 @@ This is a simple Hello, World kind of a program, the purpose of which is to lear
 
 This program is licensed under GNU General Public License v3.0.
 
-Copyright 2018 Borna Pekaric
+Copyright 2018 Borna Pekarić
