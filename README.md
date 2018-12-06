@@ -1,8 +1,10 @@
-# Hello, World
+﻿# Hello, World
 
 1. ABOUT
 
 2. LEGAL
+
+3. CHANGELOG
 
 <br/>
 
@@ -17,3 +19,9 @@ This is a simple Hello, World kind of a program, the purpose of which is to lear
 This program is licensed under GNU General Public License v3.0.
 
 Copyright 2018 Borna Pekarić
+
+<br/>
+
+1.1
+
+- Fixed author's name in copyright notice.
